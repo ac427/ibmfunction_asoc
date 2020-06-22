@@ -1,0 +1,5 @@
+requests==2.24.0
+cryptography==2.9.2
+PyJWT==1.7.1
+slackclient==2.7.1
+slackeventsapi==2.1.0
